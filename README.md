@@ -2,7 +2,7 @@
 
 > 数字游民的百宝箱：网站、账号、金融服务、银行卡、电话卡，一份清单走天下；另附进阶清单——开局顺序、身份居留、网络、税务、保险、备份与安全。
 > 持续更新中，欢迎通过 Issue / PR 补充推荐。
-> 部分品牌信息整理自 [PromoCodeGo](https://promocodego.com/)。
+> 部分品牌信息整理自 [PromoCodeGo](https://promocodego.com/) 及社区推荐。
 
 ## 目录
 
@@ -42,6 +42,7 @@
 | Google 账号 | Gmail、Drive 等全家桶入口 | https://accounts.google.com/ |
 | Apple ID | 苹果生态必备 | https://appleid.apple.com/ |
 | 1Password | 密码管理器，账号一多就离不开 | https://1password.com/ |
+| Bitwarden | 开源免费密码管理器，可自建，1Password 之外的选择 | https://bitwarden.com/ |
 
 ## 金融服务
 
@@ -56,6 +57,8 @@
 | Binance 币安 | 全球交易量第一的加密货币交易所 | https://www.binance.com/ |
 | OKX 欧易 | 全球交易量前三，自带 Web3 钱包 | https://www.okx.com/ |
 | Bybit | 全球交易量第二大的加密货币交易所 | https://www.bybit.com/ |
+| Revolut | 欧洲数字银行，多币种账户 + 实体/虚拟卡，Wise 之外的常见双持选择 | https://www.revolut.com/ |
+| Charles Schwab 嘉信 | 美国券商 + 银行：全球 ATM 免手续费、零外汇转换费；需美国身份开户 | https://international.schwab.com/expatriate-essentials |
 
 ## 银行卡
 
@@ -75,6 +78,10 @@
 | Saily | Nord Security 旗下旅行 eSIM，覆盖 200+ 目的地 | https://saily.com/ |
 | eskimo | 旅行 eSIM，流量永不过期、可结转互转 | https://eskimo.travel/ |
 | eSIM.now | 旅行 eSIM，免装 App、免注册，扫码即用 | https://esim.now/ |
+| Holafly | 无限流量 eSIM，160+ 目的地月订、无合约，游民圈高频推荐 | https://esim.holafly.com/ |
+| Nomad eSIM | 覆盖 200+ 目的地，老牌 eSIM，口碑稳 | https://www.nomadesim.com/ |
+| Ubigi | 日本、东亚覆盖强，落地即用 | https://www.ubigi.com/ |
+| eSIMdb | eSIM 套餐比价数据库，下单前先查价 | https://esimdb.com/ |
 
 > 📌 实测经验：很多服务把"能不能收到短信"和"是不是 VoIP 号码"分开判断。Telegram、WhatsApp、ChatGPT、Claude 明确拒绝 VoIP 号码注册；Apple、Instagram 可用。建议一个低成本美国号（宽松服务）+ 一张实体卡（严格服务）分开用。
 
