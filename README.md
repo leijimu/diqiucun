@@ -2,6 +2,7 @@
 
 > 数字游民的百宝箱：网站、账号、银行卡、电话卡，一份清单走天下。
 > 持续更新中，欢迎通过 Issue / PR 补充推荐。
+> 部分品牌信息整理自 [PromoCodeGo](https://promocodego.com/)。
 
 ## 目录
 
@@ -28,7 +29,11 @@
 | Notion | 笔记、知识库、项目协作 | https://www.notion.so/ |
 | Google Drive | 云存储、在线文档 | https://drive.google.com/ |
 | Namecheap | 域名注册 | https://www.namecheap.com/ |
+| Dynadot | ICANN 认证域名注册商，支持支付宝/PayPal | https://www.dynadot.com/ |
 | Telegram | 即时通讯，海外社群和客服常用 | https://telegram.org/ |
+| 城通网盘 | 国内文件存储与分享，免费 + 会员模式 | https://www.ctfile.com/ |
+| DediOne | VPS/虚拟主机，有中国线路优化款 | https://dedione.com/ |
+| 老鹰主机 HawkHost | 加拿大老牌主机商，虚拟主机/VPS，支持支付宝微信 | https://www.hawkhost.com/ |
 
 ## 账号
 
@@ -45,6 +50,12 @@
 | Wise | 全球多币种数字银行账户 + 借记卡，全球消费和 ATM 取现 | https://wise.com/ |
 | PayPal（国际版） | 国际收款，注意与 paypal.cn（贝宝）区分 | https://www.paypal.com/ |
 | Stripe | 在线收款，独立站 / 创作者变现常用 | https://stripe.com/ |
+| iFAST Global Bank | 英国持牌数字银行，多币种高息活期账户 | https://www.ifastgb.com/ |
+| Dukascopy 杜高斯贝 | 瑞士持牌银行，多币种账户 + 本人瑞士 IBAN | https://www.dukascopy.com/ |
+| N26 | 德国纯手机银行，覆盖欧洲 25 国 | https://n26.com/ |
+| Binance 币安 | 全球交易量第一的加密货币交易所 | https://www.binance.com/ |
+| OKX 欧易 | 全球交易量前三，自带 Web3 钱包 | https://www.okx.com/ |
+| Bybit | 全球交易量第二大的加密货币交易所 | https://www.bybit.com/ |
 
 ## 银行卡
 
@@ -61,6 +72,9 @@
 | 3HK | 香港电话卡，漫游数据套餐选择多 | https://www.three.com.hk/ |
 | Airalo | 全球 eSIM 商店，落地买流量包 | https://www.airalo.com/ |
 | Ultra Mobile PayGo | 美国号码 $3/月保号，收 2FA 验证码短信 | https://www.ultramobile.com/paygo |
+| Saily | Nord Security 旗下旅行 eSIM，覆盖 200+ 目的地 | https://saily.com/ |
+| eskimo | 旅行 eSIM，流量永不过期、可结转互转 | https://eskimo.travel/ |
+| eSIM.now | 旅行 eSIM，免装 App、免注册，扫码即用 | https://esim.now/ |
 
 > 📌 实测经验：很多服务把"能不能收到短信"和"是不是 VoIP 号码"分开判断。Telegram、WhatsApp、ChatGPT、Claude 明确拒绝 VoIP 号码注册；Apple、Instagram 可用。建议一个低成本美国号（宽松服务）+ 一张实体卡（严格服务）分开用。
 
