@@ -34,6 +34,18 @@
 | 城通网盘 | 国内文件存储与分享，免费 + 会员模式 | https://www.ctfile.com/ |
 | DediOne | VPS/虚拟主机，有中国线路优化款 | https://dedione.com/ |
 | 老鹰主机 HawkHost | 加拿大老牌主机商，虚拟主机/VPS，支持支付宝微信 | https://www.hawkhost.com/ |
+| Mullvad | 按账号编号、不绑邮箱的付费 VPN，可用 Monero | [mullvad.net](https://mullvad.net/) |
+| Proton VPN | 瑞士公司 VPN，有免费档，封锁环境下先装客户端 | [protonvpn.com](https://protonvpn.com/) |
+| Nym | 混合网络 VPN，强调抗流量分析，不只是换 IP | [nym.com](https://nym.com/) |
+| Tailscale | 基于 WireGuard 的组网，把家里主机暴露给旅途笔记本 | [tailscale.com](https://tailscale.com/) |
+| Porkbun | 域名注册商，续费常低于 Namecheap，适合新域名拆到第二家 | [porkbun.com](https://porkbun.com/) |
+| Hetzner | 欧洲低价 VPS，适合自己搭节点或小号服务 | [hetzner.com](https://www.hetzner.com/) |
+| Standard Notes | 端到端加密笔记，放护照、账号恢复信息这类内容 | [standardnotes.com](https://standardnotes.com/) |
+| Ente Photos | 端到端加密相册，替代 Google Photos 存证件和行程照片 | [ente.io](https://ente.io/) |
+| Have I Been Pwned | 输入邮箱查是否出现在泄露库 | [haveibeenpwned.com](https://haveibeenpwned.com/) |
+| Upwork | 全球外包平台，接远程项目、收美元 | [upwork.com](https://www.upwork.com/) |
+| We Work Remotely | 远程职位板，岗位比综合招聘站更集中 | [weworkremotely.com](https://weworkremotely.com/) |
+| Skyscanner | 多航司比价，扫中转不只看一家官网 | [skyscanner.com](https://www.skyscanner.com/) |
 
 ## 账号
 
@@ -43,6 +55,14 @@
 | Apple ID | 苹果生态必备 | https://appleid.apple.com/ |
 | 1Password | 密码管理器，账号一多就离不开 | https://1password.com/ |
 | Bitwarden | 开源免费密码管理器，可自建，1Password 之外的选择 | https://bitwarden.com/ |
+| Proton Mail | 端到端加密邮箱，可当主邮箱或敏感注册用的第二邮箱 | https://proton.me/mail |
+| Tuta | 德国开源加密邮箱，注册不强制手机号 | https://tuta.com/ |
+| SimpleLogin | 邮箱别名，每个网站一个转发地址，泄露就关（现属 Proton） | https://simplelogin.io/ |
+| YubiKey | 硬件安全密钥，给主邮箱和交易所做 FIDO2，比短信 2FA 抗 SIM 交换 | https://www.yubico.com/ |
+| Aegis | Android 开源 2FA，密钥可加密导出 | https://getaegis.app/ |
+| Ente Auth | 跨平台加密验证器，手机电脑间同步，不走 Authy 式云账号 | https://ente.io/ |
+| Signal | 默认端到端加密通讯，适合替代 Telegram 做私聊 | https://signal.org/ |
+| JMP.chat | 用 XMPP 收发短信的 VoIP 号码，可配合加密货币 | https://jmp.chat/ |
 
 ## 金融服务
 
@@ -57,8 +77,10 @@
 | Binance 币安 | 全球交易量第一的加密货币交易所 | https://www.binance.com/ |
 | OKX 欧易 | 全球交易量前三，自带 Web3 钱包 | https://www.okx.com/ |
 | Bybit | 全球交易量第二大的加密货币交易所 | https://www.bybit.com/ |
-| Revolut | 欧洲数字银行，多币种账户 + 实体/虚拟卡，Wise 之外的常见双持选择 | https://www.revolut.com/ |
+| Revolut | 欧洲数字银行：多币种账户 + 实体/虚拟卡 + 自带全球 eSIM；适合欧洲日常花费，Wise 之外的常见双持选择 | https://www.revolut.com/ |
 | Charles Schwab 嘉信 | 美国券商 + 银行：全球 ATM 免手续费、零外汇转换费；需美国身份开户 | https://international.schwab.com/expatriate-essentials |
+| Mercury | 面向美国公司的在线银行，收 ACH、开商业卡，远程公司收美元客户款 | https://mercury.com/ |
+| Relay | 美国小企业账户，支持子账户分账，偏日常运营 | https://relayfi.com/ |
 
 ## 银行卡
 
@@ -78,10 +100,13 @@
 | Saily | Nord Security 旗下旅行 eSIM，覆盖 200+ 目的地 | https://saily.com/ |
 | eskimo | 旅行 eSIM，流量永不过期、可结转互转 | https://eskimo.travel/ |
 | eSIM.now | 旅行 eSIM，免装 App、免注册，扫码即用 | https://esim.now/ |
-| Holafly | 无限流量 eSIM，160+ 目的地月订、无合约，游民圈高频推荐 | https://esim.holafly.com/ |
+| Holafly | 无限流量旅行 eSIM：按天计费或月订（160+ 目的地、无合约），适合不想算 GB 的重度用户 | https://esim.holafly.com/ |
 | Nomad eSIM | 覆盖 200+ 目的地，老牌 eSIM，口碑稳 | https://www.nomadesim.com/ |
 | Ubigi | 日本、东亚覆盖强，落地即用 | https://www.ubigi.com/ |
 | eSIMdb | eSIM 套餐比价数据库，下单前先查价 | https://esimdb.com/ |
+| Tello | 美国 T-Mobile 虚商，低月租养 +1 号，配合 Wi-Fi Calling 在境外收短信，适合长期 2FA | https://tello.com/ |
+| Google Fi | 美国运营商，多数国家可漫游，Pixel 间可一键迁 eSIM；适合已有美国身份的人 | https://fi.google.com/ |
+| Silent.link | 可用加密货币买的流量 eSIM，不走常规信用卡 | https://silent.link/ |
 
 > 📌 实测经验：很多服务把"能不能收到短信"和"是不是 VoIP 号码"分开判断。Telegram、WhatsApp、ChatGPT、Claude 明确拒绝 VoIP 号码注册；Apple、Instagram 可用。建议一个低成本美国号（宽松服务）+ 一张实体卡（严格服务）分开用。
 
