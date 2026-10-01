@@ -7,6 +7,7 @@
 
 - [网站](#网站)
 - [账号](#账号)
+- [金融服务](#金融服务)
 - [银行卡](#银行卡)
 - [电话卡](#电话卡)
 - [进阶清单](#进阶清单)
@@ -33,18 +34,22 @@
 
 | 名称 | 说明 | 链接 |
 |---|---|---|
-| Wise | 全球多币种数字银行账户 | https://wise.com/ |
-| PayPal（国际版） | 国际收款，注意与 paypal.cn（贝宝）区分 | https://www.paypal.com/ |
-| Stripe | 在线收款，独立站 / 创作者变现常用 | https://stripe.com/ |
 | Google 账号 | Gmail、Drive 等全家桶入口 | https://accounts.google.com/ |
 | Apple ID | 苹果生态必备 | https://appleid.apple.com/ |
 | 1Password | 密码管理器，账号一多就离不开 | https://1password.com/ |
+
+## 金融服务
+
+| 名称 | 说明 | 链接 |
+|---|---|---|
+| Wise | 全球多币种数字银行账户 + 借记卡，全球消费和 ATM 取现 | https://wise.com/ |
+| PayPal（国际版） | 国际收款，注意与 paypal.cn（贝宝）区分 | https://www.paypal.com/ |
+| Stripe | 在线收款，独立站 / 创作者变现常用 | https://stripe.com/ |
 
 ## 银行卡
 
 | 名称 | 说明 | 链接 |
 |---|---|---|
-| Wise 借记卡 | 多币种卡，全球消费和 ATM 取现 | https://wise.com/ |
 | 香港银行账户 | 中银香港 / 汇丰，港币结算、收国际汇款 | https://www.bochk.com/ |
 | 内地双标信用卡 | 银联 + Visa / Mastercard，境内外通用 | 通过各银行 App 申请 |
 
